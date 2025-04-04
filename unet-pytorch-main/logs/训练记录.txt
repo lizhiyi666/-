@@ -1,0 +1,488 @@
+Epoch 1/50: 100% 62/62 [01:31<00:00,  1.48s/it, f_score=0.255, lr=1e-5, total_loss=0.362]
+Finish Train
+Start Validation
+Epoch 1/50: 100% 41/41 [00:34<00:00,  1.19it/s, f_score=0.247, lr=1e-5, val_loss=0.176]
+Finish Validation
+Epoch:1/50
+Total Loss: 0.362 || Val Loss: 0.176 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 2/50: 100% 62/62 [01:01<00:00,  1.00it/s, f_score=0.308, lr=2.44e-5, total_loss=0.153]
+Finish Train
+Start Validation
+Epoch 2/50: 100% 41/41 [00:34<00:00,  1.19it/s, f_score=0.4, lr=2.44e-5, val_loss=0.116]
+Finish Validation
+Epoch:2/50
+Total Loss: 0.153 || Val Loss: 0.116 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 3/50: 100% 62/62 [00:58<00:00,  1.06it/s, f_score=0.54, lr=6.76e-5, total_loss=0.104]
+Finish Train
+Start Validation
+Epoch 3/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.607, lr=6.76e-5, val_loss=0.0856]
+Finish Validation
+Epoch:3/50
+Total Loss: 0.104 || Val Loss: 0.086 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 4/50: 100% 62/62 [00:59<00:00,  1.05it/s, f_score=0.678, lr=0.0001, total_loss=0.0862]
+Finish Train
+Start Validation
+Epoch 4/50: 100% 41/41 [00:32<00:00,  1.25it/s, f_score=0.742, lr=0.0001, val_loss=0.071]
+Finish Validation
+Epoch:4/50
+Total Loss: 0.086 || Val Loss: 0.071 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 5/50: 100% 62/62 [00:58<00:00,  1.05it/s, f_score=0.742, lr=9.97e-5, total_loss=0.0755]
+Finish Train
+Start Validation
+Epoch 5/50: 100% 41/41 [00:33<00:00,  1.24it/s, f_score=0.742, lr=9.97e-5, val_loss=0.0688]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:03<00:00, 84.85it/s] 
+Calculate miou.
+Num classes 4
+===> mIoU: 65.2; mPA: 75.53; Accuracy: 97.27
+Get miou done.
+Epoch:5/50
+Total Loss: 0.076 || Val Loss: 0.069 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 6/50: 100% 62/62 [01:00<00:00,  1.02it/s, f_score=0.766, lr=9.92e-5, total_loss=0.0711]
+Finish Train
+Start Validation
+Epoch 6/50: 100% 41/41 [00:33<00:00,  1.22it/s, f_score=0.785, lr=9.92e-5, val_loss=0.0634]
+Finish Validation
+Epoch:6/50
+Total Loss: 0.071 || Val Loss: 0.063 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 7/50: 100% 62/62 [00:59<00:00,  1.04it/s, f_score=0.783, lr=9.85e-5, total_loss=0.0673]
+Finish Train
+Start Validation
+Epoch 7/50: 100% 41/41 [00:33<00:00,  1.21it/s, f_score=0.8, lr=9.85e-5, val_loss=0.0588]
+Finish Validation
+Epoch:7/50
+Total Loss: 0.067 || Val Loss: 0.059 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 8/50: 100% 62/62 [01:03<00:00,  1.03s/it, f_score=0.799, lr=9.76e-5, total_loss=0.0636]
+Finish Train
+Start Validation
+Epoch 8/50: 100% 41/41 [00:33<00:00,  1.21it/s, f_score=0.81, lr=9.76e-5, val_loss=0.0566]
+Finish Validation
+Epoch:8/50
+Total Loss: 0.064 || Val Loss: 0.057 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 9/50: 100% 62/62 [01:01<00:00,  1.01it/s, f_score=0.807, lr=9.64e-5, total_loss=0.0611]
+Finish Train
+Start Validation
+Epoch 9/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.813, lr=9.64e-5, val_loss=0.0565]
+Finish Validation
+Epoch:9/50
+Total Loss: 0.061 || Val Loss: 0.056 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 10/50: 100% 62/62 [00:58<00:00,  1.05it/s, f_score=0.815, lr=9.5e-5, total_loss=0.0593]
+Finish Train
+Start Validation
+Epoch 10/50: 100% 41/41 [00:33<00:00,  1.21it/s, f_score=0.828, lr=9.5e-5, val_loss=0.0528]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:03<00:00, 85.14it/s]
+Calculate miou.
+Num classes 4
+===> mIoU: 73.8; mPA: 84.01; Accuracy: 97.98
+Get miou done.
+Epoch:10/50
+Total Loss: 0.059 || Val Loss: 0.053 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 11/50: 100% 62/62 [01:07<00:00,  1.08s/it, f_score=0.823, lr=9.34e-5, total_loss=0.0577]
+Finish Train
+Start Validation
+Epoch 11/50: 100% 41/41 [00:32<00:00,  1.25it/s, f_score=0.834, lr=9.34e-5, val_loss=0.0508]
+Finish Validation
+Epoch:11/50
+Total Loss: 0.058 || Val Loss: 0.051 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 12/50: 100% 62/62 [00:58<00:00,  1.06it/s, f_score=0.831, lr=9.15e-5, total_loss=0.0555]
+Finish Train
+Start Validation
+Epoch 12/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.839, lr=9.15e-5, val_loss=0.0497]
+Finish Validation
+Epoch:12/50
+Total Loss: 0.056 || Val Loss: 0.050 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 13/50: 100% 62/62 [00:57<00:00,  1.09it/s, f_score=0.834, lr=8.95e-5, total_loss=0.0549]
+Finish Train
+Start Validation
+Epoch 13/50: 100% 41/41 [00:33<00:00,  1.24it/s, f_score=0.842, lr=8.95e-5, val_loss=0.0492]
+Finish Validation
+Epoch:13/50
+Total Loss: 0.055 || Val Loss: 0.049 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 14/50: 100% 62/62 [01:01<00:00,  1.01it/s, f_score=0.835, lr=8.73e-5, total_loss=0.0543]
+Finish Train
+Start Validation
+Epoch 14/50: 100% 41/41 [00:32<00:00,  1.25it/s, f_score=0.849, lr=8.73e-5, val_loss=0.0474]
+Finish Validation
+Epoch:14/50
+Total Loss: 0.054 || Val Loss: 0.047 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 15/50: 100% 62/62 [00:58<00:00,  1.06it/s, f_score=0.846, lr=8.49e-5, total_loss=0.0515]
+Finish Train
+Start Validation
+Epoch 15/50: 100% 41/41 [00:33<00:00,  1.22it/s, f_score=0.847, lr=8.49e-5, val_loss=0.0472]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:03<00:00, 85.00it/s]
+Calculate miou.
+Num classes 4
+===> mIoU: 76.28; mPA: 85.27; Accuracy: 98.23
+Get miou done.
+Epoch:15/50
+Total Loss: 0.052 || Val Loss: 0.047 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 16/50: 100% 62/62 [00:57<00:00,  1.08it/s, f_score=0.845, lr=8.23e-5, total_loss=0.0517]
+Finish Train
+Start Validation
+Epoch 16/50: 100% 41/41 [00:33<00:00,  1.22it/s, f_score=0.833, lr=8.23e-5, val_loss=0.0544]
+Finish Validation
+Epoch:16/50
+Total Loss: 0.052 || Val Loss: 0.054 
+Start Train
+Epoch 17/50: 100% 62/62 [00:58<00:00,  1.05it/s, f_score=0.847, lr=7.96e-5, total_loss=0.0511]
+Finish Train
+Start Validation
+Epoch 17/50: 100% 41/41 [00:32<00:00,  1.25it/s, f_score=0.855, lr=7.96e-5, val_loss=0.045]
+Finish Validation
+Epoch:17/50
+Total Loss: 0.051 || Val Loss: 0.045 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 18/50: 100% 62/62 [00:57<00:00,  1.08it/s, f_score=0.851, lr=7.67e-5, total_loss=0.0502]
+Finish Train
+Start Validation
+Epoch 18/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.859, lr=7.67e-5, val_loss=0.0439]
+Finish Validation
+Epoch:18/50
+Total Loss: 0.050 || Val Loss: 0.044 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 19/50: 100% 62/62 [01:01<00:00,  1.00it/s, f_score=0.854, lr=7.37e-5, total_loss=0.0492]
+Finish Train
+Start Validation
+Epoch 19/50: 100% 41/41 [00:33<00:00,  1.22it/s, f_score=0.859, lr=7.37e-5, val_loss=0.0442]
+Finish Validation
+Epoch:19/50
+Total Loss: 0.049 || Val Loss: 0.044 
+Start Train
+Epoch 20/50: 100% 62/62 [00:59<00:00,  1.05it/s, f_score=0.858, lr=7.06e-5, total_loss=0.0479]
+Finish Train
+Start Validation
+Epoch 20/50: 100% 41/41 [00:34<00:00,  1.20it/s, f_score=0.864, lr=7.06e-5, val_loss=0.0434]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:03<00:00, 84.62it/s]
+Calculate miou.
+Num classes 4
+===> mIoU: 78.57; mPA: 87.71; Accuracy: 98.41
+Get miou done.
+Epoch:20/50
+Total Loss: 0.048 || Val Loss: 0.043 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 21/50: 100% 62/62 [00:58<00:00,  1.06it/s, f_score=0.861, lr=6.74e-5, total_loss=0.0472]
+Finish Train
+Start Validation
+Epoch 21/50: 100% 41/41 [00:33<00:00,  1.21it/s, f_score=0.868, lr=6.74e-5, val_loss=0.0421]
+Finish Validation
+Epoch:21/50
+Total Loss: 0.047 || Val Loss: 0.042 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 22/50: 100% 62/62 [00:58<00:00,  1.06it/s, f_score=0.862, lr=6.41e-5, total_loss=0.047]
+Finish Train
+Start Validation
+Epoch 22/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.865, lr=6.41e-5, val_loss=0.0439]
+Finish Validation
+Epoch:22/50
+Total Loss: 0.047 || Val Loss: 0.044 
+Start Train
+Epoch 23/50: 100% 62/62 [00:59<00:00,  1.03it/s, f_score=0.865, lr=6.08e-5, total_loss=0.0461]
+Finish Train
+Start Validation
+Epoch 23/50: 100% 41/41 [00:32<00:00,  1.26it/s, f_score=0.87, lr=6.08e-5, val_loss=0.0411]
+Finish Validation
+Epoch:23/50
+Total Loss: 0.046 || Val Loss: 0.041 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 24/50: 100% 62/62 [01:07<00:00,  1.08s/it, f_score=0.866, lr=5.74e-5, total_loss=0.0461]
+Finish Train
+Start Validation
+Epoch 24/50: 100% 41/41 [00:32<00:00,  1.25it/s, f_score=0.869, lr=5.74e-5, val_loss=0.0415]
+Finish Validation
+Epoch:24/50
+Total Loss: 0.046 || Val Loss: 0.042 
+Start Train
+Epoch 25/50: 100% 62/62 [00:57<00:00,  1.07it/s, f_score=0.868, lr=5.4e-5, total_loss=0.0452]
+Finish Train
+Start Validation
+Epoch 25/50: 100% 41/41 [00:32<00:00,  1.26it/s, f_score=0.869, lr=5.4e-5, val_loss=0.0414]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:03<00:00, 84.63it/s]
+Calculate miou.
+Num classes 4
+===> mIoU: 79.57; mPA: 87.43; Accuracy: 98.51
+Get miou done.
+Epoch:25/50
+Total Loss: 0.045 || Val Loss: 0.041 
+Start Train
+Epoch 26/50: 100% 62/62 [01:12<00:00,  1.17s/it, f_score=0.869, lr=5.05e-5, total_loss=0.045]
+Finish Train
+Start Validation
+Epoch 26/50: 100% 41/41 [00:33<00:00,  1.22it/s, f_score=0.865, lr=5.05e-5, val_loss=0.0416]
+Finish Validation
+Epoch:26/50
+Total Loss: 0.045 || Val Loss: 0.042 
+Start Train
+Epoch 27/50: 100% 62/62 [00:57<00:00,  1.07it/s, f_score=0.871, lr=4.7e-5, total_loss=0.0446]
+Finish Train
+Start Validation
+Epoch 27/50: 100% 41/41 [00:34<00:00,  1.20it/s, f_score=0.869, lr=4.7e-5, val_loss=0.0406]
+Finish Validation
+Epoch:27/50
+Total Loss: 0.045 || Val Loss: 0.041 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 28/50: 100% 62/62 [00:57<00:00,  1.08it/s, f_score=0.874, lr=4.36e-5, total_loss=0.044]
+Finish Train
+Start Validation
+Epoch 28/50: 100% 41/41 [00:32<00:00,  1.27it/s, f_score=0.875, lr=4.36e-5, val_loss=0.0396]
+Finish Validation
+Epoch:28/50
+Total Loss: 0.044 || Val Loss: 0.040 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 29/50: 100% 62/62 [00:56<00:00,  1.09it/s, f_score=0.874, lr=4.02e-5, total_loss=0.0436]
+Finish Train
+Start Validation
+Epoch 29/50: 100% 41/41 [00:34<00:00,  1.19it/s, f_score=0.876, lr=4.02e-5, val_loss=0.0397]
+Finish Validation
+Epoch:29/50
+Total Loss: 0.044 || Val Loss: 0.040 
+Start Train
+Epoch 30/50: 100% 62/62 [00:56<00:00,  1.09it/s, f_score=0.875, lr=3.69e-5, total_loss=0.0433]
+Finish Train
+Start Validation
+Epoch 30/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.878, lr=3.69e-5, val_loss=0.039]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:03<00:00, 84.68it/s] 
+Calculate miou.
+Num classes 4
+===> mIoU: 80.25; mPA: 89.3; Accuracy: 98.56
+Get miou done.
+Epoch:30/50
+Total Loss: 0.043 || Val Loss: 0.039 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 31/50: 100% 62/62 [01:01<00:00,  1.00it/s, f_score=0.876, lr=3.36e-5, total_loss=0.0429]
+Finish Train
+Start Validation
+Epoch 31/50: 100% 41/41 [00:34<00:00,  1.18it/s, f_score=0.875, lr=3.36e-5, val_loss=0.0401]
+Finish Validation
+Epoch:31/50
+Total Loss: 0.043 || Val Loss: 0.040 
+Start Train
+Epoch 32/50: 100% 62/62 [01:01<00:00,  1.00it/s, f_score=0.877, lr=3.04e-5, total_loss=0.0423]
+Finish Train
+Start Validation
+Epoch 32/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.878, lr=3.04e-5, val_loss=0.0394]
+Finish Validation
+Epoch:32/50
+Total Loss: 0.042 || Val Loss: 0.039 
+Start Train
+Epoch 33/50: 100% 62/62 [01:03<00:00,  1.02s/it, f_score=0.88, lr=2.73e-5, total_loss=0.0419]
+Finish Train
+Start Validation
+Epoch 33/50: 100% 41/41 [00:33<00:00,  1.22it/s, f_score=0.88, lr=2.73e-5, val_loss=0.0386]
+Finish Validation
+Epoch:33/50
+Total Loss: 0.042 || Val Loss: 0.039 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 34/50: 100% 62/62 [00:56<00:00,  1.10it/s, f_score=0.88, lr=2.43e-5, total_loss=0.0418]
+Finish Train
+Start Validation
+Epoch 34/50: 100% 41/41 [00:32<00:00,  1.26it/s, f_score=0.876, lr=2.43e-5, val_loss=0.0391]
+Finish Validation
+Epoch:34/50
+Total Loss: 0.042 || Val Loss: 0.039 
+Start Train
+Epoch 35/50: 100% 62/62 [01:02<00:00,  1.00s/it, f_score=0.88, lr=2.14e-5, total_loss=0.0418]
+Finish Train
+Start Validation
+Epoch 35/50: 100% 41/41 [00:32<00:00,  1.26it/s, f_score=0.879, lr=2.14e-5, val_loss=0.0389]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:03<00:00, 84.09it/s] 
+Calculate miou.
+Num classes 4
+===> mIoU: 81.09; mPA: 88.75; Accuracy: 98.62
+Get miou done.
+Epoch:35/50
+Total Loss: 0.042 || Val Loss: 0.039 
+Start Train
+Epoch 36/50: 100% 62/62 [00:58<00:00,  1.07it/s, f_score=0.881, lr=1.87e-5, total_loss=0.0416]
+Finish Train
+Start Validation
+Epoch 36/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.88, lr=1.87e-5, val_loss=0.0385]
+Finish Validation
+Epoch:36/50
+Total Loss: 0.042 || Val Loss: 0.038 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 37/50: 100% 62/62 [01:02<00:00,  1.01s/it, f_score=0.883, lr=1.61e-5, total_loss=0.0407]
+Finish Train
+Start Validation
+Epoch 37/50: 100% 41/41 [00:32<00:00,  1.25it/s, f_score=0.88, lr=1.61e-5, val_loss=0.038]
+Finish Validation
+Epoch:37/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 38/50: 100% 62/62 [00:58<00:00,  1.06it/s, f_score=0.883, lr=1.37e-5, total_loss=0.0409]
+Finish Train
+Start Validation
+Epoch 38/50: 100% 41/41 [00:33<00:00,  1.24it/s, f_score=0.881, lr=1.37e-5, val_loss=0.0382]
+Finish Validation
+Epoch:38/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Start Train
+Epoch 39/50: 100% 62/62 [01:02<00:00,  1.00s/it, f_score=0.883, lr=1.15e-5, total_loss=0.0411]
+Finish Train
+Start Validation
+Epoch 39/50: 100% 41/41 [00:33<00:00,  1.22it/s, f_score=0.881, lr=1.15e-5, val_loss=0.0383]
+Finish Validation
+Epoch:39/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Start Train
+Epoch 40/50: 100% 62/62 [01:03<00:00,  1.02s/it, f_score=0.883, lr=9.46e-6, total_loss=0.0409]
+Finish Train
+Start Validation
+Epoch 40/50: 100% 41/41 [00:33<00:00,  1.22it/s, f_score=0.881, lr=9.46e-6, val_loss=0.0382]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:02<00:00, 86.22it/s]
+Calculate miou.
+Num classes 4
+===> mIoU: 81.49; mPA: 89.14; Accuracy: 98.65
+Get miou done.
+Epoch:40/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Start Train
+Epoch 41/50: 100% 62/62 [01:08<00:00,  1.11s/it, f_score=0.883, lr=7.63e-6, total_loss=0.0408]
+Finish Train
+Start Validation
+Epoch 41/50: 100% 41/41 [00:31<00:00,  1.28it/s, f_score=0.882, lr=7.63e-6, val_loss=0.0379]
+Finish Validation
+Epoch:41/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 42/50: 100% 62/62 [00:56<00:00,  1.10it/s, f_score=0.882, lr=6.01e-6, total_loss=0.041]
+Finish Train
+Start Validation
+Epoch 42/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.882, lr=6.01e-6, val_loss=0.038]
+Finish Validation
+Epoch:42/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Start Train
+Epoch 43/50: 100% 62/62 [01:01<00:00,  1.00it/s, f_score=0.883, lr=4.6e-6, total_loss=0.0409]
+Finish Train
+Start Validation
+Epoch 43/50: 100% 41/41 [00:34<00:00,  1.19it/s, f_score=0.882, lr=4.6e-6, val_loss=0.0378]
+Finish Validation
+Epoch:43/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 44/50: 100% 62/62 [01:08<00:00,  1.10s/it, f_score=0.883, lr=3.42e-6, total_loss=0.041]
+Finish Train
+Start Validation
+Epoch 44/50: 100% 41/41 [00:32<00:00,  1.28it/s, f_score=0.882, lr=3.42e-6, val_loss=0.0379]
+Finish Validation
+Epoch:44/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Start Train
+Epoch 45/50: 100% 62/62 [00:56<00:00,  1.10it/s, f_score=0.883, lr=2.47e-6, total_loss=0.0408]
+Finish Train
+Start Validation
+Epoch 45/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.883, lr=2.47e-6, val_loss=0.0377]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:03<00:00, 85.20it/s]
+Calculate miou.
+Num classes 4
+===> mIoU: 81.49; mPA: 89.31; Accuracy: 98.65
+Get miou done.
+Epoch:45/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Save best model to best_epoch_weights.pth
+Start Train
+Epoch 46/50: 100% 62/62 [00:56<00:00,  1.09it/s, f_score=0.884, lr=1.75e-6, total_loss=0.0402]
+Finish Train
+Start Validation
+Epoch 46/50: 100% 41/41 [00:33<00:00,  1.23it/s, f_score=0.882, lr=1.75e-6, val_loss=0.038]
+Finish Validation
+Epoch:46/50
+Total Loss: 0.040 || Val Loss: 0.038 
+Start Train
+Epoch 47/50: 100% 62/62 [00:57<00:00,  1.07it/s, f_score=0.884, lr=1.27e-6, total_loss=0.0406]
+Finish Train
+Start Validation
+Epoch 47/50: 100% 41/41 [00:32<00:00,  1.26it/s, f_score=0.883, lr=1.27e-6, val_loss=0.0379]
+Finish Validation
+Epoch:47/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Start Train
+Epoch 48/50: 100% 62/62 [01:04<00:00,  1.04s/it, f_score=0.884, lr=1.03e-6, total_loss=0.0407]
+Finish Train
+Start Validation
+Epoch 48/50: 100% 41/41 [00:32<00:00,  1.27it/s, f_score=0.883, lr=1.03e-6, val_loss=0.0378]
+Finish Validation
+Epoch:48/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Start Train
+Epoch 49/50: 100% 62/62 [01:02<00:00,  1.01s/it, f_score=0.885, lr=1e-6, total_loss=0.0407]
+Finish Train
+Start Validation
+Epoch 49/50: 100% 41/41 [00:32<00:00,  1.27it/s, f_score=0.882, lr=1e-6, val_loss=0.0378]
+Finish Validation
+Epoch:49/50
+Total Loss: 0.041 || Val Loss: 0.038 
+Start Train
+Epoch 50/50: 100% 62/62 [01:00<00:00,  1.02it/s, f_score=0.886, lr=1e-6, total_loss=0.0403]
+Finish Train
+Start Validation
+Epoch 50/50: 100% 41/41 [00:32<00:00,  1.27it/s, f_score=0.883, lr=1e-6, val_loss=0.0379]
+Finish Validation
+Get miou.
+100% 5374/5374 [01:03<00:00, 85.07it/s]
+Calculate miou.
+Num classes 4
+===> mIoU: 81.55; mPA: 89.14; Accuracy: 98.66
+Get miou done.
+Epoch:50/50
+Total Loss: 0.040 || Val Loss: 0.038 
